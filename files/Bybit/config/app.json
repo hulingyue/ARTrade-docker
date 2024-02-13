@@ -12,6 +12,6 @@
     "trade_url": "wss://stream.bybit.com/v5/private",
     "trade_test_restful_url": "https://api-testnet.bybit.com",
     "trade_restful_url": "https://api.bybit.com",
-    "api_key": "IOfT3hhVPvWPQ84rKb",
-    "api_secret": "ISwV6nD7N1c0YRhLRPpUNhoaqlGw38fYBqHZ"
+    "api_key": "",
+    "api_secret": ""
 }
